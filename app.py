@@ -6,7 +6,7 @@ from collections import deque
 import time
 import uuid
 
-EMAIL = "YOUR_EMAIL@example.com"   # Replace with your exam email
+EMAIL = "24ds2000033@ds.study.iitm.ac.in"   # Replace with your exam email
 
 app = FastAPI()
 
